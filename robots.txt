@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hyousseef-collab.github.io/quran-library/sitemap.xml

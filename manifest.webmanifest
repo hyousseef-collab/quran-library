@@ -1,0 +1,12 @@
+{
+  "name": "المكتبة القرآنية",
+  "short_name": "QuranLib",
+  "start_url": "/quran-library/",
+  "display": "standalone",
+  "background_color": "#0f3d2e",
+  "theme_color": "#0f3d2e",
+  "scope": "/quran-library/",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
